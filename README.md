@@ -6,7 +6,7 @@
 ![vicKiliG GitHub stats](https://github-readme-stats.vercel.app/api?username=vicKiliG&show_icons=true&theme=dark)
 
 # 💻Tech 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,pr,vscode)](https://skillicons.dev)
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vicKiliG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
