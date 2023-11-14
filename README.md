@@ -1,4 +1,4 @@
-![be53fc5350400539c44b3bc7c2552fe9](https://github.com/JunLovin/JunLovin/assets/96802832/057adde0-3fc9-411f-8734-76f64cc4deaf)
+![7b07b10e87dd62d1e7e34e6e1188b789](https://github.com/vicKiliG/vicKiliG/assets/140220863/84eb3187-9afa-455e-9e91-38c0ac798ba6)
 
 📊 GitHub Stats:
 
